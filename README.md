@@ -9,5 +9,7 @@ ATTENTION: please do not look at the code and its architecture, because there wa
 ВНИМАНИЕ: прошу не смотреть на код и его архитектуру, потому что времени было мало, я старался не тратить время на это, а успеть реализовать как можно больше интересного контента.
 
 itch-io: https://sigma-g.itch.io/try-to-dodge
+
 youtube: https://youtu.be/B4a-HG7FrsY
+
 ludume dare: https://ldj.am/$302099
